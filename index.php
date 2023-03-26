@@ -10,8 +10,8 @@
     
 <?php
     // INPUT
-    $increase = 5299.73;
-    $pto = 115.074 + 39.385;
+    $increase = 529.73;
+    $pto = 11.074 + 39.385;
 
     // CONSTANTS
     $tithing = 0.1;
